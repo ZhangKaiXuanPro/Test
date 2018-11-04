@@ -9,7 +9,7 @@ import com.mysql.jdbc.MysqlParameterMetadata;
 import entity.ClassTable;
 import entity.Teacher;
 
-
+//:Iloveyou
 public class TestMysql {
     public static final String CREATE_STUDENT = "create table Student ("
             + "stuId int primary key autoincrement,"
