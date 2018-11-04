@@ -8,7 +8,7 @@ import com.mysql.jdbc.MysqlParameterMetadata;
 
 import entity.ClassTable;
 import entity.Teacher;
-//love you
+
 //:Iloveyou
 //eraGit is a distributed version control system.
 //Git is free software distributed under the GPL.
